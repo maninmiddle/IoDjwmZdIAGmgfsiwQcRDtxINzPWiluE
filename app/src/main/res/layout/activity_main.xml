@@ -98,4 +98,14 @@
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNav"
+        style="@style/Widget.MaterialComponents.BottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        app:backgroundTint="@color/colorBottomNavBackground"
+        app:layout_anchor="@id/rvLayout"
+        app:layout_anchorGravity="bottom"
+        app:menu="@menu/menu" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

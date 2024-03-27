@@ -2,6 +2,9 @@
     <string name="app_name">Project</string>
     <string name="stringScanQrCode">scan qr-code</string>
     <string name="stringTempPrice">От 345 р</string>
+    <string name="stringMenu">Меню</string>
+    <string name="stringProfile">Профиль</string>
+    <string name="stringBasket">Корзина</string>
     <string-array name="cities">
         <item>Москва</item>
         <item>Казань</item>

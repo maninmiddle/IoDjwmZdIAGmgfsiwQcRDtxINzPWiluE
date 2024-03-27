@@ -6,4 +6,5 @@
     <color name="colorMilk">#A1A1A1</color>
     <color name="colorGray">#C3C4C9</color>
     <color name="transparent">#00FFFFFF</color>
+    <color name="colorBottomNavBackground">#F0F0F0</color>
 </resources>
