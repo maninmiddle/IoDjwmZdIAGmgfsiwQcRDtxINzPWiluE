@@ -6,4 +6,5 @@
     <dimen name="middleMargin">20dp</dimen>
     <dimen name="bannerCorner">10dp</dimen>
     <dimen name="buttonCornerRadius">6dp</dimen>
+    <dimen name="recyclerViewMargin">120dp</dimen>
 </resources>
