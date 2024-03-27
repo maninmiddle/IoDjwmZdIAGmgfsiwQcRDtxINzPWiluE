@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appBarTopMargin">70dp</dimen>
+    <dimen name="smallMargin">5dp</dimen>
+    <dimen name="shortMargin">10dp</dimen>
+    <dimen name="middleMargin">20dp</dimen>
+    <dimen name="bannerCorner">10dp</dimen>
+    <dimen name="buttonCornerRadius">6dp</dimen>
+</resources>
